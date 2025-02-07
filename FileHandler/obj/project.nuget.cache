@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoDvUV4r9dE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\FileHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
