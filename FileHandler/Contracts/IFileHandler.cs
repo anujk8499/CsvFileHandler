@@ -11,5 +11,7 @@ namespace FileHandler.Contracts
        public List<T> Read(string filePath);
         public void Write(string filePath, List<T> data);
         public void Delete(string filePath);
+
+        public List<T> ParseCsvGeneric<T>(string filePath) where T : new();
     }
     }

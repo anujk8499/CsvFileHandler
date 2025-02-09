@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\FileHandler\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\contracts\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\services\\csvfilehandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\services\\csvfilehandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\services\\csvfilehandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\contracts\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\contracts\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\documents\\.net project\\filehandler1\\filehandler\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|c:\\users\\dell\\source\\repos\\filehandler\\filehandler\\contracts\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B80395-A7CB-46BF-A33A-D0B7EC86F879}|FileHandler\\FileHandler.csproj|solutionrelative:filehandler\\contracts\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,40 +46,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "FileHandler\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\StudentService.cs",
               "RelativeToolTip": "FileHandler\\Services\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:48:15.693Z",
+              "WhenOpened": "2025-02-03T10:48:15.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IFileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler\\Contracts\\IFileHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IFileHandler.cs",
+              "RelativeToolTip": "FileHandler\\Contracts\\IFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:07:01.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFileHandler.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IFileHandler.cs",
-              "RelativeDocumentMoniker": "FileHandler\\Contracts\\IFileHandler.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IFileHandler.cs",
-              "RelativeToolTip": "FileHandler\\Contracts\\IFileHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T07:07:01.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "FileHandler\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\EmployeeService.cs",
               "RelativeToolTip": "FileHandler\\Services\\EmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,24 +88,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Program.cs",
               "RelativeDocumentMoniker": "FileHandler\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Program.cs",
               "RelativeToolTip": "FileHandler\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywCUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T06:49:20.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Dto\\StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Dto\\StudentDto.cs",
               "RelativeDocumentMoniker": "FileHandler\\Dto\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Dto\\StudentDto.cs",
               "RelativeToolTip": "FileHandler\\Dto\\StudentDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,24 +113,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CsvFileHandlerService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\CsvFileHandlerService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\CsvFileHandlerService.cs",
               "RelativeDocumentMoniker": "FileHandler\\Services\\CsvFileHandlerService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Services\\CsvFileHandlerService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Services\\CsvFileHandlerService.cs",
               "RelativeToolTip": "FileHandler\\Services\\CsvFileHandlerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T07:13:53.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IEmployee.cs",
               "RelativeDocumentMoniker": "FileHandler\\Contracts\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IEmployee.cs",
               "RelativeToolTip": "FileHandler\\Contracts\\IEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IStudent.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IStudent.cs",
               "RelativeDocumentMoniker": "FileHandler\\Contracts\\IStudent.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Contracts\\IStudent.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Contracts\\IStudent.cs",
               "RelativeToolTip": "FileHandler\\Contracts\\IStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Dto\\EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Dto\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "FileHandler\\Dto\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\Dto\\EmployeeDto.cs",
               "RelativeToolTip": "FileHandler\\Dto\\EmployeeDto.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

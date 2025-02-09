@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\FileHandler.csproj": {}
+    "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\FileHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\FileHandler.csproj": {
+    "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\FileHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\FileHandler.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\FileHandler.csproj",
         "projectName": "FileHandler",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\FileHandler.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\FileHandler.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\FileHandler\\FileHandler\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\.net project\\FileHandler1\\FileHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

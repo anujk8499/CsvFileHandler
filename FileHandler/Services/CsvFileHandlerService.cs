@@ -35,7 +35,50 @@ namespace FileHandler.Services
             
         }
 
-        
+
+        public List<T> ParseCsvGeneric<T>(string filePath) where T : new()
+        {
+            List<T> records = new List<T>();
+
+            if (!File.Exists(filePath))
+            {
+                Console.WriteLine("File not found.");
+                return records;
+            }
+
+            var properties = typeof(T).GetProperties();
+
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                string headerLine = reader.ReadLine(); // Read header
+                if (headerLine == null) return records;
+
+                var headers = headerLine.Split(',').Select(h => h.Trim()).ToArray();
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    string[] values = line.Split(',');
+                    if (values.Length != headers.Length) continue;
+
+                    T obj = new T();
+                    for (int i = 0; i < headers.Length; i++)
+                    {
+                        var prop = properties.FirstOrDefault(p => p.Name.Equals(headers[i], StringComparison.OrdinalIgnoreCase));
+                        if (prop != null)
+                        {
+                            object value = Convert.ChangeType(values[i].Trim(), prop.PropertyType);
+                            prop.SetValue(obj, value);
+                        }
+                    }
+                    records.Add(obj);
+                }
+            }
+            return records;
+        }
+
+
+
+
 
         public void Write(string filePath, List<T> data)
         {
